@@ -8,7 +8,7 @@
 | Eike Margus | B: Data Extraction | Win |
 | Nikita Kolenkovski | C: Visualization | Win |
 | Krista Hein | D: Business Recommendation | Win |
-| Egle Laur | E: ? | Win |
+| Egle Laur | E: Hetkel puudu | Win |
 
 ## Meie eesmärk
 Uuendame hiljem.
