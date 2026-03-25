@@ -12,7 +12,7 @@ Suhtluskanal: Google Workspace Chat - https://chat.google.com/room/AAQArMWdqI0?c
 
 GitHub repo:  https://github.com/rattaseppkevin-tech/urbanstyle-TOOTE-grupp.git
 
-Supabase:     https://zdemaeudzyqjexckxdsl.supabase.co
+Supabase:     [https://zdemaeudzyqjexckxdsl.supabase.co](https://supabase.com/dashboard/project/zdemaeudzyqjexckxdsl)
 
 NotebookLM:   https://notebooklm.google.com/notebook/7ceef76a-8039-4dd8-826b-6ae6bf49dc67
 
