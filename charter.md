@@ -29,15 +29,18 @@ NotebookLM:   https://notebooklm.google.com/notebook/7ceef76a-8039-4dd8-826b-6ae
 
 # ROLLIDE ROTATSIOON:
 
-Nädal 1: A=Kevin  B=Nikita C=Eike D=Krista 
+Nädal 1: A=Kevin     B=Nikita    C=Eike      D=Krista 
 
-Nädal 2: A=Nikita B=Eike   C=Krista D=Kevin
+Nädal 2: A=Nikita    B=Eike      C=Krista    D=Egle     E=Kevin
 
-Nädal 3: A=Eike   B=Krista C=Kevin D=Nikita 
+Nädal 3: A=Eike      B=Krista    C=Egle      D=Kevin    E=Nikita
 
-Nädal 4: A=Krista B=Kevin  C=Nikita D=Eike
+Nädal 4: A=Krista    B=Egle      C=Kevin     D=Nikita   E=Eike
+
+Nädal 5: A=Egle      B=Kevin     C=Nikita    D=Eike     E=Krista
 
 ALLKIRJAD:  1. Suuliselt kinnitatud  2. Suuliselt kinnitatud
-            3. Suuliselt kinnitatud   4. Suuliselt kinnitatud
+            3. Suuliselt kinnitatud   4. Suuliselt kinnitatud 
+            5. Suuliselt kinnitatud
             
 KUUPÄEV: 25.03.2026
