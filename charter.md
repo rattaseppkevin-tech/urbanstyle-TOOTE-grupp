@@ -1,12 +1,12 @@
 # TEAM CHARTER — UrbanStyle TOODE
-LIIKMED:
+## LIIKMED:
 1. Kevin Rattasepp (OS: Win )       Roll nädal 0: GitHub Repo Seadistaja
 2. Nikita Kolenkovski (OS: Win )    Roll nädal 0: Supabase Seadistaja
 3. Eike Markus (OS: Win )           Roll nädal 0: NotebookLM Seadistaja
 4. Krista Hein (OS: Win )           Roll nädal 0: Team Charter Koostaja
 5. Egle Laur (OS: Win)              Roll nädal 0: N/A
 
-# ÜHISED TÖÖRIISTAD:
+## ÜHISED TÖÖRIISTAD:
 
 Suhtluskanal: Google Workspace Chat - https://chat.google.com/room/AAQArMWdqI0?cls=7
 
@@ -16,7 +16,7 @@ Supabase:     [https://zdemaeudzyqjexckxdsl.supabase.co](https://supabase.com/da
 
 NotebookLM:   https://notebooklm.google.com/notebook/7ceef76a-8039-4dd8-826b-6ae6bf49dc67
 
-# KOKKULEPPED:
+## KOKKULEPPED:
 
 1. Kuidas me üksteist aitame, kui keegi jääb kinni? 
    Saadame küsimused Google Wokspace Chat'i.
@@ -24,10 +24,14 @@ NotebookLM:   https://notebooklm.google.com/notebook/7ceef76a-8039-4dd8-826b-6ae
    Kohtume kolmapäeviti kell 13:00. Vajadusel määrame lisakohtumisajad eraldi.
 3. Kuidas me jagame faile?
    Esialgu jagame faile Google Workspace Chat'i kaudu. Kui failide hulk suureneb, võtame kasutusele Google Drive kaustad.
+
+## Kaizen
+
+1. **Week-0**: Oleme korralikult materjalidega tutvunud. Kontrollime omavahel enne kohtumist, et kõik on üles leidnud ning tutvunud õigete materjalidega.
    
 
 
-# ROLLIDE ROTATSIOON:
+## ROLLIDE ROTATSIOON:
 
 Nädal 0: A=Kevin     B=Nikita    C=Eike      D=Krista 
 
@@ -39,7 +43,7 @@ Nädal 3: A=Krista    B=Egle      C=Kevin     D=Nikita   E=Eike
 
 Nädal 4: A=Egle      B=Kevin     C=Nikita    D=Eike     E=Krista
 
-ALLKIRJAD:  
+## ALLKIRJAD:  
 1. Kevin Rattasepp - Suuliselt kinnitatud
 2. Nikita Kolenkovski - Suuliselt kinnitatud
 3. Eike Markus - Suuliselt kinnitatud
