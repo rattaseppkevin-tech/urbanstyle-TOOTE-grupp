@@ -14,8 +14,10 @@ Kaupluste koormus:
 3. Pärnu: 1 618 tehingut
 
 - **customers**: 3150 rida, 9 veergu
+
 Peamine leid: Enamik andmetest on täidetud, kuid puuduvad väärtused esinevad peamiselt veergudes email (380 puudu ehk 12,1% kliendibaasist; 510 dubleeritud ehk 16,2%) ning loyalty_tier (1260 puudu ehk 40%).
 Linnade (city) andmed ei ole ühises vormingus (suured/väikesed tähed, tühikud), mistõttu sama linn esineb mitmel erineval kujul. Esimene klient registreeriti 02.01.2020 ja uusim 27.02.2025. Viimase 6 kuu jooksul lisandus 325 uut klienti, mis moodustab 10,3% kogu kliendibaasist. Andmestik on piisavalt kvaliteetne edasiseks analüüsiks. Kuigi customer_id väärtused on unikaalsed, vajavad täiendavat kontrolli kliendiandmed (nt nimi ja email) ning vajalik on andmete korrastamine ja puuduvate väärtuste täitmine.
+
 - **products**: 362 rida, 9 veergu
 
 peamine leid : puuduvad 18 toote sertifikaadid ning 10l tootel on soetushind suurem kui müügihind. Tabelis võiks sisalduda ka kate (rahaline, protsent).
