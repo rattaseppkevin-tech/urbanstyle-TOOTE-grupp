@@ -34,8 +34,7 @@
     - Tootede tabel on üldiselt heas seisus, tuleks täpsustada 18 toote eco_sertifikaadi olemasolu ning üle vaadata probleemsete müügihindadega tooted, kas hind on valesti sisestatud või on olnud probleeme toodete müümisega, mille tulemusel oli vaja toodete hind tunduvalt alla lasta.
     - Tabelis võiks sisalduda ka toodete marginaal ning kogus laos
 
-- **sales** (kanalid/asukohad):
-- **products**: 15234 rida, 11 veerg
+- **sales/stores**(kanalid/asukohad): 15234 rida, 11 veerg
   - *peamine leid* : 
     - stores tabel puudus andmestikus 
     - millised kauplused on ja mis andmed nende kohta
@@ -47,11 +46,12 @@
     - Eraldi kaupluste tabelit ei olnud, müügiandmete põhjal sai tuvastada 3 füüsilist kauplust: Tallinn, Tartu ja Pärnu. 
     
 
-SUURIM ÜLLATUS :
-[1-2 lauset]
+## SUURIM ÜLLATUS :
+Müükide puhul negatiivsed müügisummad, toodete puhul soetusmaksumusest madalamad müügihinnad. Päris palju dubleeritud e-mail.
 
-SOOVITUS TOOMASELE :
-[1-2 lauset]
+## SOOVITUS TOOMASELE :
+Läbi vaadatud 3 tabelit on vaja puhastada ning sisestada puuduvad andmed. 
 
-PUUDUVAD ANDMED :
-[1-2 lauset]
+## PUUDUVAD ANDMED :
+Tänase ülesande raames küll mittevajalik, aga edasipidi võiks olla eraldi stores tabel, kus on andmed kõikide kaupluste kohta - aadressid, ruutmeetrid, töötajate arv.  See võimaldaks Toomasel arvutada müüki ruutmeetri kohta või tulu ühe töötaja kohta, mis on äri laiendamiseks hädavajalik info.
+Products tabel võiks sisaldada toodete marginaale ning koguseid.
