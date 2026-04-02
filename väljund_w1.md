@@ -34,7 +34,18 @@
     - Tootede tabel on üldiselt heas seisus, tuleks täpsustada 18 toote eco_sertifikaadi olemasolu ning üle vaadata probleemsete müügihindadega tooted, kas hind on valesti sisestatud või on olnud probleeme toodete müümisega, mille tulemusel oli vaja toodete hind tunduvalt alla lasta.
     - Tabelis võiks sisalduda ka toodete marginaal ning kogus laos
 
-- **sales** (kanalid/asukohad): [unikaalsed kanalid, asukohad, peamine leid]
+- **sales** (kanalid/asukohad):
+- **products**: 15234 rida, 11 veerg
+  - *peamine leid* : 
+    - stores tabel puudus andmestikus 
+    - millised kauplused on ja mis andmed nende kohta
+        - Kaupluse asukoht | Tehingute_arv |Kogukäive
+        - Pärnu            | 1618          | 438 183.08 €
+        - Tartu            | 2708          | 783 468.61 €
+        - Tallinn          | 5704          | 1 626 303.81 €
+    - Tallinn moodustab ligikaudu 57% kogukäibest ja tehingute arvust, mis on loogiline arvestades rahvaarvu ja turu suurust.
+    - Eraldi kaupluste tabelit ei olnud, müügiandmete põhjal sai tuvastada 3 füüsilist kauplust: Tallinn, Tartu ja Pärnu. 
+    
 
 SUURIM ÜLLATUS :
 [1-2 lauset]
