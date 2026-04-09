@@ -4,6 +4,8 @@
 **Tegelane:** Toomas Kask
 **Kuupäev:** 09.04.2026
 
+Märkus: puhastamine viidi läbi test koopias (sales_test, customers_test). Originaaltabelid on muutmata — tulemused on soovitus production puhastamiseks.
+
 ## Peamised leiud
 
 ### Müük — Eike (Roll A)
