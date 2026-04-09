@@ -4,7 +4,7 @@
 **Tegelane:** Toomas Kask
 **Kuupäev:** 09.04.2026
 
-Märkus: puhastamine viidi läbi test koopias (sales_test, customers_test). Originaaltabelid on muutmata — tulemused on soovitus production puhastamiseks.
+*Märkus: puhastamine viidi läbi test koopias (sales_test, customers_test). Originaaltabelid on muutmata — tulemused on soovitus production puhastamiseks.*
 
 ## Peamised leiud
 
@@ -63,8 +63,6 @@ Märkus: puhastamine viidi läbi test koopias (sales_test, customers_test). Orig
 | Vaimtooted | 12 | Toodet pole kunagi müüdud |
 | **KOKKU** | **1268** | |
 
-*Märkus: sõltumatu kontroll Supabase kaudu näitas hinna ebakõlade arvuks 810 — Kevin täpsustab metoodikat.*
-
 ---
 
 ## Koondtabel
@@ -87,6 +85,23 @@ Kriitilisim domeen on müük (5116 duplikaati) ja hinnaebakõlad (664 rida) — 
 
 ## Puuduvad andmed
 988 tehingul puudub kliendi seos — ei tea, kes need kliendid on ja kas nad on lojaalsed.
+
+---
+
+## Ärianalüüs
+
+### Aktiveerimata kliendid
+513 klienti on registreeritud emailiga kuid pole kunagi ostnud.
+Neile saab kohe saata UrbanStyle'i kampaaniakirja esmaostu allahindlusega —
+andmed on olemas, kampaania on käivitamisvalmis.
+
+### Puuduvad kontaktandmed
+380 kliendil puudub e-mail — kuid kõigil on telefon olemas.
+SMS-kampaania kaudu saab pakkuda boonust e-maili lisamisel.
+
+### Hinna ebakõlad
+664 ebakõla põhjus on selgitamata (allahindlus või andmeviga).
+Selgitamine võimalik N3-s promotions tabeliga JOIN-i abil.
 
 ## Esitlus
 [Vaata esitlust PDF-ina](week2_team_cleaning_report.pdf)
