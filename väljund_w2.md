@@ -63,4 +63,4 @@ Kriitilisim domeen on müük (5116 duplikaati) ja hinnaebakõlad (664 rida) — 
 988 tehingul puudub kliendi seos — ei tea, kes need kliendid on ja kas nad on lojaalsed.
 
 ## Esitlus
-[Vaata esitlust PPTX-ina](week2_andmekvaliteedi_raport.pptx)
+[Vaata esitlust PDF-ina](week2_team_cleaning_report.pdf)
